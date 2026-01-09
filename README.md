@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I´m Miguel 👋
+  - 🎓 Computer Science at IST Portugal 2025
+  - 🖥️ Learning Go and Python
 
 <!--
 **miguelduartepereira/miguelduartepereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
